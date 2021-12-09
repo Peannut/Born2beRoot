@@ -1,5 +1,7 @@
 # Born2beRoot
 yallah nbdaw hh
+# what is virtualizitaion
+## lmohim virtualization dl piciyat hiya matalan t9dr dir wst dak l windows lm7shr dalk new operation system dyalk o haka kifash katsyb l virtualmachine kiwli 3ndk virtualmachine wst l pc o kiya5od part mn resources dl pc dyalk nta li kat3tihom lih 3la 7sab l config o matalan had l virtualbox ola vmware ki tsmaw hypervisors type 2 o kayn l hypervisor type 1 o howa li kidiro f serveurat o l3ybat hadak mashi mn wst l pc dyalk hada mn l pc nishan l hardware makayn binathom walo nishan 7arfia fo9 l hardware o hadshi kidar f serveurat kima glt zho hh![alt text](https://www.serverwatch.com/wp-content/uploads/2020/09/what-is-a-hypervisor-server_5f5ed47e2d2aa.jpeg)
 # why debian b3da hh
 ## 7it sahl o easy to use 3aks Centos dak l9lawi m3a9t o 5ask tkon nadi f system administrator bash t3rf t5dm bih debian based 3la l linux kernel o mamsybah la sharika la waloo gha communitie o sf 3ks centos based on redhat sharika katdir dakshi dl piciyat 
 ## ssh howa secure shell protocol fash kansifto data katkon encrypted kola wa7d 3ndo pulbic key o private key kan tbadlo l public keys m3a server o kansifto random data m creptya b public key dl server o howa ki encryptiha same for him kidir nfs l7aja o dik sa3a ara bra3 l send data o receive it 
